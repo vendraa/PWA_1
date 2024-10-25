@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Tugas Modul 5 Praktikum Pemrograman Perangkat Begerak
+
+Kelompok 14
+1. Linda Ratna Kholifah
+2. Nadhif Abhirama Nayaka
+3. Muhammad Hafizh Albanthany
+4. Novendra Anugrah Fitriatmoko
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
