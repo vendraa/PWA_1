@@ -1,8 +1,9 @@
-import { AiFillStar } from "react-icons/ai"; import "./CardSmall.css";
+import { AiFillStar } from "react-icons/ai";
+import "./CardSmall.css";
 
-export default function CardSmall({ title, genre, img, size, color, onClick }) {
+export default function CardSmall({ title, genre, img, size, color, id, category }) {
     return (
-        <div className="card" onClick={onClick}>
+        <div className="card">
             <img src={img} alt="" className="photo" />
             <div className="description">
                 <div>
